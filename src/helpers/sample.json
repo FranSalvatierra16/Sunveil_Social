@@ -1,0 +1,23 @@
+{
+  "__v": 0,
+  "_id": "65e0f08fbddf1a15a8561993",
+  "bio": "",
+  "createdAt": "2024-02-29T21:01:03.008Z",
+  "email": "adsdasdas@aydys.com",
+  "following": [],
+  "isSeller": false,
+  "password": "$2a$10$jCT279koi2tGjG5eAidHfuENLN64NvaEcryOKq0G8uuqwHvKsXgnG",
+  "profilePicture": "",
+  "role": "user",
+  "sellerDetails": {
+    "adsRunning": []
+  },
+  "subscribers": [],
+  "subscription": {
+    "endDate": null,
+    "startDate": null,
+    "status": "none"
+  },
+  "updatedAt": "2024-02-29T21:01:03.008Z",
+  "username": "franbcdasd"
+}
